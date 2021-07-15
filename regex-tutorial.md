@@ -1,10 +1,11 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+Regex, known as regular expression, is a search pattern formed by a serires of special charaters that includes the followings: anchors, quantifiers, grouping constructs, bracket epxressions, character classes, OR operator, flags, and character escapes.
+
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+
 
 ## Table of Contents
 
